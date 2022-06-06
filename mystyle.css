@@ -1,0 +1,66 @@
+a:link {
+    color:blue
+}
+
+a:visited {
+    color:rgb(251, 252, 252)
+}
+
+a:hover{
+    color:slateblue
+}
+
+a:active{
+    color:gold
+}
+
+#area1{
+    text-align: center;
+    background-color: rgb(9, 79, 139);
+    color:rgb(255, 255, 255);
+}
+
+#area2{
+    font-size: x-large;
+    color:antiquewhite;
+    
+    
+}
+
+#area3{
+    font-size: large;
+    color:rgb(253, 253, 253);
+
+}
+.line1{
+    font-family: 'Times New Roman', Times, serif;
+}
+.style{
+    border-radius: 50px;
+    max-width: 100%;
+    height:auto
+}
+h3 {
+    color:whitesmoke;
+    background-color: peachpuff;
+    text-shadow: 3px 3px 6px coral;
+}
+#rainbow{
+
+    height:48px;
+    background-color: azure;
+    background-image: linear-gradient(to right, salmon ,pink ,white);
+}
+h2{
+    text-align: center;
+    margin:auto;
+}
+th{
+    text-align: center;
+}
+th{
+    text-align: center;
+}
+td{
+    text-align: center;
+}
